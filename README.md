@@ -18,4 +18,19 @@ To install and run this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone [https://github.com/yourusername/currency-converter.git](https://github.com/CoderDebajyoti/Currency-Converter-USD-to-Indian-Rupees-.git)
+   git clone https://github.com/CoderDebajyoti/Currency-Converter-USD-to-Indian-Rupees-.git
+
+##License
+```
+This project is licensed under the MIT License - see the LICENSE file for details.
+```
+
+##Acknowledgements
+```
+Exchange rate data provided by ExchangeRateAPI.
+Inspired by various currency converter projects.
+```
+##Contact
+```
+For any questions or suggestions, feel free to contact me at debajyoti.475@gmail.com.
+```
