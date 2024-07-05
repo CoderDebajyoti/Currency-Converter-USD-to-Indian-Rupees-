@@ -18,4 +18,4 @@ To install and run this project, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/currency-converter.git
+   git clone [https://github.com/yourusername/currency-converter.git](https://github.com/CoderDebajyoti/Currency-Converter-USD-to-Indian-Rupees-.git)
